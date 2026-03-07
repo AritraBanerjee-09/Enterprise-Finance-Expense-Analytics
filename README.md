@@ -1,6 +1,6 @@
 # 📊 Enterprise Finance Expense Analytics Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Dashboard.jpg)
 
 ## 📌 Project Overview
 This project analyzes enterprise financial expense data using **Python for data preparation** and **Power BI for visualization**. The goal of this project is to transform raw financial data into meaningful insights by building an **interactive analytics dashboard**.
@@ -114,7 +114,7 @@ Identifies major contributors to enterprise expenses.
 
 ## 📷 Dashboard Preview
 
-![Finance Dashboard](screenshots/dashboard.png)
+![Finance Dashboard](Dashboard.jpg)
 
 ---
 
@@ -130,5 +130,5 @@ Identifies major contributors to enterprise expenses.
 
 **Aritra Banerjee**
 
-Aspiring Data Analyst skilled in **Python, Data Analysis, and Power BI Dashboard Development**
+- Aspiring Data Analyst skilled in **Python, Data Analysis, and Power BI Dashboard Development**
 ---
